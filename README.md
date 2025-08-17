@@ -20,12 +20,6 @@ Built using <b>pure HTML & CSS</b>, this project highlights clean design princip
   <li>CSS3 (Flexbox, Grid, Media Queries)</li>
 </ul>
 
-<h2>📸 Preview</h2>
-<p>
-(Add a screenshot after building)<br>
-<img src="screenshot.png" alt="FreshCart Screenshot" width="800">
-</p>
-
 <h2>⚙️ How to Run</h2>
 <pre>
 # Clone the repository
@@ -49,3 +43,4 @@ This project is ideal for:
 
 <h2>📄 License</h2>
 <p>This project is licensed under the MIT License - free to use and modify.</p>
+
